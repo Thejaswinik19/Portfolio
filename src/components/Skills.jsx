@@ -1,3 +1,6 @@
+import { FaJava, FaHtml5, FaReact, FaNodeJs, FaPhp } from "react-icons/fa";
+import { SiC, SiCplusplus, SiMongodb, SiMysql, SiCss3 } from "react-icons/si";
+
 export default function Skills() {
   const skills = [
     { name: "Java", icon: <FaJava size={30} color="#f89820" /> },
